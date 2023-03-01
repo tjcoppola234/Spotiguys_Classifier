@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "Spotiguys_Classifier//public///static/css/main.ca57846c.css",
-    "main.js": "Spotiguys_Classifier//public///static/js/main.8cafdb67.js",
-    "index.html": "Spotiguys_Classifier//public///index.html",
-    "main.ca57846c.css.map": "Spotiguys_Classifier//public///static/css/main.ca57846c.css.map",
-    "main.8cafdb67.js.map": "Spotiguys_Classifier//public///static/js/main.8cafdb67.js.map"
+    "main.css": "/Spotiguys_Classifier/static/css/main.ca57846c.css",
+    "main.js": "/Spotiguys_Classifier/static/js/main.a86b7f49.js",
+    "index.html": "/Spotiguys_Classifier/index.html",
+    "main.ca57846c.css.map": "/Spotiguys_Classifier/static/css/main.ca57846c.css.map",
+    "main.a86b7f49.js.map": "/Spotiguys_Classifier/static/js/main.a86b7f49.js.map"
   },
   "entrypoints": [
     "static/css/main.ca57846c.css",
-    "static/js/main.8cafdb67.js"
+    "static/js/main.a86b7f49.js"
   ]
 }
